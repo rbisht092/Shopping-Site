@@ -1,0 +1,1 @@
+export const url = "https://ecommerce-backend-2omf.onrender.com"
